@@ -1,0 +1,12 @@
+{
+    "3oHo7N7guNgLN+4E}DQe": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGZmAAAAAAB2d4ZmAAAAcHd3d4gGAAB2d3d3h2gAAHZ3h4h3aABgdneIiIiIBmBliIhmhogGYGWIaGZmiAZgZohoZmaIBgBmEWhmZmgAAGYRZWaGaAAAYFZVZmgGAAAAZmZmZgAAAAAAZmYAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "portal"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
